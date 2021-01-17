@@ -1,0 +1,4 @@
+{
+    "emulator.androidColdBoot": true,
+    "emulator.emulatorPathMac": "~/Library/Android/sdk/emulator"
+}
