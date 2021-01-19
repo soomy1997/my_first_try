@@ -10,18 +10,22 @@ void main() {
     ),
   );
 }
-gvghvj
-hhhh
 
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return new MaterialApp(
-        title: 'Flutter log in demo',
-        debugShowCheckedModeBanner: false,
-        theme: new ThemeData(
-          primarySwatch: Colors.blue,
+      home: Scaffold(
+        backgroundColor: Colors.black26,
+        body: SafeArea(
+          child: Container(
+            height: 50,
+            width: 50,
+            color: Colors.white,
+            child: Text('Hello'),
+          ),
         ),
-        home: new RootPage(auth: new Auth()));
+      ),
+    );
   }
 }
