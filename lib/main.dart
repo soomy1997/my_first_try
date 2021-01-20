@@ -10,6 +10,7 @@ void main() {
     ),
   );
 }
+gjycc
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -18,8 +19,8 @@ class MyApp extends StatelessWidget {
         backgroundColor: Colors.black26,
         body: SafeArea(
           child: Container(
-            height: 50,
-            width: 50,
+            height: 60,
+            width: 60,
             color: Colors.white,
             child: Text('hi everyone'),
           ),
