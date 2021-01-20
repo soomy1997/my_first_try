@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
             height: 100,
             width: 100,
             color: Colors.white,
-            child: Text('hi everyone, this is IAU DSC'),
+            child: Text('hi everyone, this is Faizah typing..'),
           ),
         ),
       ),
