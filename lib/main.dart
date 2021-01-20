@@ -20,8 +20,8 @@ class MyApp extends StatelessWidget {
         backgroundColor: Colors.black26,
         body: SafeArea(
           child: Container(
-            height: 60,
-            width: 60,
+            height: 70,
+            width: 70,
             color: Colors.white,
             child: Text('hi everyone,'),
           ),
