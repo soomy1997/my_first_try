@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
         backgroundColor: Colors.black26,
         body: SafeArea(
           child: Container(
-            height: 50,
+            height: 40,
             width: 50,
             color: Colors.white,
             child: Text('hi everyone,'),
