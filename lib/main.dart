@@ -10,6 +10,7 @@ void main() {
     ),
   );
 }
+hjhvdcyavvcdi
 gjycc
 class MyApp extends StatelessWidget {
   @override
@@ -19,10 +20,10 @@ class MyApp extends StatelessWidget {
         backgroundColor: Colors.black26,
         body: SafeArea(
           child: Container(
-            height: 50,
-            width: 50,
+            height: 70,
+            width: 70,
             color: Colors.white,
-            child: Text('hi everyone,'),
+            child: Text('hi everyone, this is IAU DSC'),
           ),
         ),
       ),
